@@ -1,0 +1,6 @@
+owner=439003555077160961
+prefix=-
+game=Memo Bot -play
+stayinchannel=true
+songinstatus=false
+token=NjIyMDYyMjU1NDMyOTI1MTg1.XXuaxA.xpBJAlmaifAPDGOH1ClSpyBDUvU
